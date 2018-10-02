@@ -1,3 +1,4 @@
 # PRUEBAS-01
 REPOSITORIO  DE PRUEBAS
-Sistema de pruebas hithub
+
+https://octodex.github.com/images/yaktocat.png
